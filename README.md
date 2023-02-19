@@ -22,7 +22,7 @@ This is the one and only official TechnoBot💖 Userbot made by @Technoboy_02. D
 
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/TECHNOBOT-OP/TECHNOBOT/network/members"><img src="https://img.shields.io/github/forks/TECHNOBOT-OP/TECHNOBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/TECHNOBOT-OP/TECHNOBOT/stargazers"><img src="https://img.shields.io/github/stars/TECHNOBOT-OP/TECHNOBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/TECHNOBOT-OP/TECHNOBOT"></a><p align="left"><a href="https://github.com/TECHNOBOT-OP/TECHNOBOT?"></a>
+    <a href="https://github.com/suhail0-b/TECHNOBOT/network/members"><img src="https://img.shields.io/github/forks/suhail0-b/TECHNOBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/TECHNOBOT-OP/TECHNOBOT/stargazers"><img src="https://img.shields.io/github/stars/TECHNOBOT-OP/TECHNOBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/TECHNOBOT-OP/TECHNOBOT"></a><p align="left"><a href="https://github.com/TECHNOBOT-OP/TECHNOBOT?"></a>
 
 ------
 
@@ -68,7 +68,7 @@ sudo apt update && sudo apt upgrade -y
 
 sudo apt install --no-install-recommends -y curl git libffi-dev libjpeg-dev libwebp-dev python3-lxml python3-psycopg2 libpq-dev libcurl4-openssl-dev libxml2-dev libxslt1-dev python3-pip python3-sqlalchemy openssl wget python3 python3-dev libreadline-dev libyaml-dev gcc zlib1g ffmpeg libssl-dev libgconf-2-4 libxi6 unzip libopus0 libopus-dev python3-venv libmagickwand-dev pv tree mediainfo
 
-git clone https://github.com/TECHNOBOT-OP/TECHNOUSERBOT tbot
+git clone https://github.com/suhail0-b/TECHNOUSERBOT tbot
 
 cd tbot
 
